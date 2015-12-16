@@ -3,5 +3,6 @@ based on the tutorial by Armando Sotoca: http://webdesign.tutsplus.com/tutorials
 
 background © Alexandre Pirotto: https://unsplash.com/photos/zCevd81eJDU
 
-Current render: 
+Current render:
+
 ![render](https://raw.githubusercontent.com/dengeist/login-form-interface-sample/master/render.png)
